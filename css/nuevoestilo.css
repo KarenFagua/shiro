@@ -1,0 +1,22 @@
+.color {
+    background-color: #530D00;
+}
+.texto {
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #530D00;
+    border-top-right-radius: 0px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+}
+.text {
+}
+.bloque {
+    background-color: #FFFFFF;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: #530D00;
+}
+.blanco {
+    color: #FFFFFF;
+}
